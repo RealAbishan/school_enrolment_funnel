@@ -33,13 +33,13 @@ To Up and Running the Application make sure you have the following versions
 Clone the project 
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/RealAbishan/school_enrolment_funnel.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd schoole_enrolment_funnel
 ```
 
 ## APIs of the System
